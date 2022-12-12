@@ -2,6 +2,7 @@
 PowerfulSwords - slimefun addon that adds  interesting and powerful swords and runes. It will contain many beautiful and useful things in the future. 
 ## Contents
 #SoulSword
+
 #OmegaSword
 
 ## Addon support
