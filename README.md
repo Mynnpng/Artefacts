@@ -13,7 +13,7 @@ PowerfulSwords - slimefun addon that adds  interesting and powerful swords and r
 
 *AriesSword
 
-*Demons Heart
+*Demon Heart
 
 *Powerful Rune
 
