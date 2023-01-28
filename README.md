@@ -1,14 +1,20 @@
 ## Artefacts Slimefun Addon
-PowerfulSwords- slimefun addon that adds  interesting and powerful swords and runes. It will contain many beautiful and useful things in the future. 
+Artefacts- slimefun addon that adds  powerful and interesting artefacts in game /-/
 ## Content
 Miner Artefact
 
+Warrior Artefact
 
+Water Artefact
+
+Fire Artefact
+
+Ice Artefact
 
 ## Addon support
 Link to the Boosty:
 https://boosty.to/addonsupport
 ## Special thanks
-Manulcraft
+Manulcraft and others
 
 ## Good luck
